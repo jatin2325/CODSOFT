@@ -1,2 +1,2 @@
 # CODSOFT
-codsoft internship for ui ux design
+codsoft internship for ui ux design e commerce
